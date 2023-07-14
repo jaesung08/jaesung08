@@ -1,3 +1,7 @@
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=#b6e7a5&height=150&section=header&text=ssafy10&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
