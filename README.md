@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaesung08)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=jaesung08&locale=ko&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=jaesung08&hide=contribs,prs&show_icons=true)-->
+
